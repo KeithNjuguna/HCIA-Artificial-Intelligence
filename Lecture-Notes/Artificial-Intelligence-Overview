@@ -1,1 +1,103 @@
+Intelligence and Multiple Intelligences
+Howard Gardner proposed the theory of multiple intelligences, which includes:
 
+Linguistic-verbal intelligence
+
+Logical-mathematical intelligence
+
+Visual-spatial intelligence
+
+Bodily-kinesthetic intelligence
+
+Musical-rhythmic and harmonic intelligence
+
+Interpersonal intelligence
+
+Intrapersonal intelligence
+
+Naturalistic intelligence
+
+Artificial Intelligence (AI)
+AI studies and develops theories, techniques, and applications that simulate and extend human intelligence.
+
+Term coined by John McCarthy in 1956 as "the science and engineering of making intelligent machines."
+
+AI enables machines to learn from data and make human-like decisions.
+
+Machine Learning (ML)
+A subfield of AI that allows computers to learn from experience (data) and improve performance.
+
+Tom Mitchell defined ML as a process where a computer program learns from experience to perform tasks better.
+
+ML intersects with data mining (DM) and knowledge discovery in databases (KDD).
+
+Deep Learning (DL)
+A subset of ML that originates from artificial neural networks.
+
+Uses hierarchical representations to analyze and interpret data (e.g., images, voice, text).
+
+Based on multilayer perceptron (MLP) structures.
+
+Relationship Between AI, ML, and DL
+AI: Broad discipline that simulates human intelligence.
+
+ML: Subset of AI focusing on learning from data to make predictions.
+
+DL: Subset of ML using deep neural networks for complex data analysis.
+
+Symbolic AI (Symbolicism)
+Also called logicism or psychologism, derived from mathematical logic.
+
+Views human cognition as a reasoning process based on symbols.
+
+Proposed by McCarthy in 1956, leading to expert systems and knowledge engineering.
+
+Remained a dominant AI approach even after the rise of other theories.
+
+Major Schools of AI
+Connectionism
+Also known as bionicsism or physiologism, focuses on AI originating from the study of the human brain.
+
+Emphasizes neurons as the basic thinking unit rather than symbols.
+
+The McCulloch-Pitts (MP) neuron model was proposed in 1943.
+
+The artificial neural network (ANN) is a key technique but presents interpretability challenges.
+
+In 1986, David Rumelhart introduced the backpropagation (BP) algorithm, revitalizing connectionism research.
+
+Actionism
+Also called evolutionism or cyberneticsism, argues AI originates from cybernetics.
+
+Intelligence depends on perception and actions rather than knowledge or reasoning.
+
+Led to the development of intelligent control and robotics in the 1980s.
+
+Rodney Brooks' six-legged robot exemplifies actionism, using a "perception-action" model.
+
+AI Development History
+The Dartmouth Conference (1956) marked the birth of AI.
+
+Scientists like John McCarthy, Marvin Minsky, Claude Shannon, and Herbert Simon contributed.
+
+The Lisp programming language played a significant role in early AI development.
+
+Types of AI
+Strong AI
+Aims to replicate human intelligence, reasoning, self-awareness, and problem-solving.
+
+Capable of independent thought, self-learning, and adaptation.
+
+Hypothetically, simulating the human brain at full scale could lead to strong AI.
+
+Weak AI
+Designed for specific tasks and relies on human input.
+
+Includes applications like AlphaGo and AI-generated content.
+
+Relies on data and computing power to perform specialized tasks.
+
+AI Industry Ecosystem
+AI applications require data, algorithms, computing power, and application scenarios.
+
+AI integrates with cloud computing, big data, and IoT to advance intelligent systems.
