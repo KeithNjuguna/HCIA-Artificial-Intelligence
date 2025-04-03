@@ -1,2 +1,2 @@
 # HCIA-Artificial-Intelligence
-Repo for the Huawei AI Associate course.
+Repo for the Huawei  HCIA AI V3.5 course.
