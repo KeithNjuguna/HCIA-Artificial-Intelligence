@@ -1,9 +1,9 @@
-#Lists.
-#1.Lists
-#Mutable (can be changed after creation).
-#Defined using square brackets [].
-#Can store different data types.
-#upports indexing, slicing, and various list methods.
+# Lists.
+# 1.Lists
+# Mutable (can be changed after creation).
+# Defined using square brackets [].
+# Can store different data types.
+# Supports indexing, slicing, and various list methods.
 
 my_list = [1, 2, 3, "hello", 4.5]
 my_list.append(6)  # Adds an element
