@@ -1,4 +1,4 @@
-#Lists 
+#Lists.
 #1.Lists
 #Mutable (can be changed after creation).
 #Defined using square brackets [].
