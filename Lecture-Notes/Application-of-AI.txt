@@ -1,5 +1,4 @@
---
-### **AI Technology & Application Fields**  
+-- **AI Technology & Application Fields**  
 AI is advancing in various fields, particularly in China, where key areas include:  
 - **Computer Vision**: Enabling machines to process and understand visual data.  
 - **Natural Language Processing (NLP)**: Helping computers understand and use human languages.  
