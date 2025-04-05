@@ -1,0 +1,16 @@
+**Linear Regression**
+Linear Regression is used to predict a continuous value, like house prices or temperatures. It finds a straight line that best fits the data points. Think of it as drawing the line that most accurately represents the trend in your data.
+
+Polynomial Regression
+Sometimes, the relationship between data points isn't a straight line—it might curve or twist. Polynomial Regression helps capture those patterns by fitting a more flexible curve (instead of a straight line) to the data. It still works similarly to Linear Regression but adds more complexity to better match the data.
+
+Preventing Overfitting
+Overfitting happens when a model learns the training data too well and starts memorizing the noise rather than understanding the actual patterns. This makes it perform poorly on new data. To prevent overfitting:
+
+Simplify the model: Avoid using overly complex formulas or too many features unless necessary.
+
+Regularization: Add constraints to the model to discourage overly complicated solutions.
+
+Validation: Test the model on different datasets to ensure it performs well on unseen data.
+
+In short, Linear Regression is a simple way to predict values, Polynomial Regression extends it for more complex patterns, and preventing overfitting ensures the model can handle new, unseen data effectively
